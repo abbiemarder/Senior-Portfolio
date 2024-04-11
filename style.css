@@ -71,7 +71,7 @@
 }
 
 .roundedrectangle {
-    width: 70%;
+    width: 50%;
     height: 40px;
     background-color: #ffffff;
     display: flex;
@@ -86,9 +86,12 @@
     display: grid;
     place-items: center;
 }
-
+.search{
+    margin-left: 10px;
+}
 .typing-demo {
-    width: 36vh;
+    margin-left: 15px;
+    width: 32vh;
     animation: typing 2s steps(22), blink .5s step-end infinite alternate;
     white-space: nowrap;
     overflow: hidden;
