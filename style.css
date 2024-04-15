@@ -112,3 +112,86 @@
         border-color: transparent
     }
 }
+
+.btna {
+    background-color: #EBEBEB; 
+    color: black;
+    font-family: poppins;
+}
+.btna:hover{
+    background-color:#4285F4;
+    filter: drop-shadow(3px 3px 4px #34A853);
+    color: black;
+    }
+
+
+.btnc {
+    background-color: #EBEBEB;
+    color: black;
+    font-family: poppins;
+}
+
+.btnc:hover {
+    background-color: #FBBC05;
+    filter: drop-shadow(3px 3px 4px #34A853);
+    color: black;
+}
+/*Work hover */
+.btnw {
+    background-color: #EBEBEB;
+    color: black;
+    font-family: poppins;
+}
+
+.btnw:hover {
+    background-color: #4285F4;
+    filter: drop-shadow(3px 3px 4px #34A853);
+
+}
+.dropdown {
+    position: relative;
+    display: inline-block;
+    display: flex;
+    justify-content: center;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    box-shadow: 0px 8px 16px 0px #34A853;
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    font-family: poppins;
+}
+.dropdown-content a:hover{
+    color: #EA4335;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    font-family: poppins;
+}
+.dropdown:hover .dropdown-content {
+    display: block;
+    max-height: 160px;
+}
+
+.navbar{
+    padding-left: 24px;
+}
+.nav-link {
+    font-family: poppins;
+}
+.abouttitle {
+    font-size: 65px;
+    font-weight: bold;
+}
+.info{
+    font-family: poppins;
+}
