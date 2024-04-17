@@ -97,7 +97,7 @@
 
 .typing-demo {
     margin-left: 15px;
-    width: 32vh;
+    width: 36vh;
     animation: typing 2s steps(22), blink .5s step-end infinite alternate;
     white-space: nowrap;
     overflow: hidden;
@@ -236,5 +236,65 @@ p.clink a {
 
 p.clink a:hover {
     color: #EA4335;
+    font-family: poppins;
+}
+.skillst {
+    font-family: poppins;
+    font-size: larger;
+    font-weight: bold;
+}
+.skillst {
+    font-family: poppins;
+    font-size: larger;
+    font-weight: 900;
+}
+.square-img{
+    width: 50px;
+    
+}
+.sl {
+    font-family: poppins;
+    font-weight: bold;
+    font-size: 20px;
+}
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.content {
+    flex: 1;
+}
+
+.footer {
+    background-color: #ECECEC;
+    padding: 20px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+
+}
+
+.footer ul a {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+    color:black;
+    font-family: poppins;
+}
+
+.footer ul li {
+    display: inline-block;
+    margin: 0 10px;
+    bottom: 10px;
+}
+
+.footer .credit {
+    text-align: center;
+    bottom: 10px;
+    right: 10px;
     font-family: poppins;
 }
