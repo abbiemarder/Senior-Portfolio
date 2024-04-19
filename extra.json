@@ -1,82 +1,40 @@
 {
     "images": [
         {
-            "imgPath": "img/places/phi phi.jpg",
+            "imgPath": "Senior Portfolio Pics/haileybieber.jpg",
             "imgLocation": "Thailand",
             "description": "Phi Phi Islands",
             "date": "12/25/2023"
         },
         {
-            "imgPath": "img/places/laos.JPG",
+            "imgPath": "Senior Portfolio Pics/Me_&_Matt.png",
             "imgLocation": "Laos",
             "description": "Waterfalls, Laungprabang",
             "date": "12/29/2023"
         },
         {
-            "imgPath": "img/places/lake como.jpg",
+            "imgPath": "Senior Portfolio Pics/Mrs_Leonard.png",
             "imgLocation": "Italy",
             "description": "Lake Como",
             "date": "06/16/2023"
         },
         {
-            "imgPath": "img/places/sagrada.jpg",
+            "imgPath": "Senior Portfolio Pics/Meredith_and_Derek_.png",
             "imgLocation": "Spain",
             "description": "La Sagrada Familia, Barcelona",
             "date": "04/20/2022"
         },
         {
-            "imgPath": "img/places/ricepaddies.jpg",
+            "imgPath": "Senior Portfolio Pics/harriet tubman.png",
             "imgLocation": "Thailand",
             "description": "Rice Paddies, Chiang Mai",
             "date": "12/30/2019"
         },
         {
-            "imgPath": "img/places/atlantic city.JPG",
+            "imgPath": "Senior Portfolio Pics/parrot.png",
             "imgLocation": "New Jersey",
             "description": "Ferris Wheel, Atlantic City",
             "date": "06/04/2022"
-        },
-        {
-            "imgPath": "img/places/colleseum.jpg",
-            "imgLocation": "Italy",
-            "description": "Colleseum, Rome",
-            "date": "04/15/2022"
-        },
-        {
-            "imgPath": "img/places/grand canyon.JPG",
-            "imgLocation": "Arizona",
-            "description": "Grand Canyon National Park",
-            "date": "07/03/2022"
-        },
-        {
-            "imgPath": "img/places/israel.jpg",
-            "imgLocation": "Israel",
-            "description": "Jerusalem",
-            "date": "06/01/2023"
-        },
-        {
-            "imgPath": "img/places/roscoe.jpg",
-            "imgLocation": "New York",
-            "description": "Timber Lake West, Roscoe",
-            "date": "06/16/2019"
-        },
-        {
-            "imgPath": "img/places/cas batilo.jpg",
-            "imgLocation": "Spain",
-            "description": "Casa Batlló, Barcelona",
-            "date": "04/18/2022"
-        },
-        {
-            "imgPath": "img/places/mahkong river.jpg",
-            "imgLocation": "Laos",
-            "description": "Mekong Delta",
-            "date": "12/30/2023"
-        },
-        {
-            "imgPath": "img/places/bryce cannon.jpg",
-            "imgLocation": "Utah",
-            "description": "Bryce Cannon National Park",
-            "date": "07/04/2022"
         }
   ]
 }
