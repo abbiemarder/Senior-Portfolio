@@ -476,8 +476,30 @@ Make it animate nicely. You'll need CSS3 for this*/
     object-fit: cover;
 }
 
-.square:hover {
+.web:hover {
     opacity: 50%;
 }
 
+.logr{
+    border: 5px solid #EA4335;
+}
+.logb {
+    border: 5px solid #4285F4;
+}
+.logg {
+    border: 5px solid #34A853;
+}
+.logy {
+    border: 5px solid #FBBC05;
+}
 
+.tyellow{
+    color:#FBBC05;
+    font-family: "Poppins", sans-serif;
+    font-weight: bold;
+}
+.tred {
+    color: #EA4335;
+    font-family: "Poppins", sans-serif;
+    font-weight: bold;
+}
