@@ -202,7 +202,7 @@
 }
 
 .abouttitle {
-    font-size: 65px;
+    font-size: 75px;
     font-weight: bold;
     padding-top: 100px;
 }
@@ -215,7 +215,22 @@
 
 .me {
     border-radius: 10%;
-
+    width: 100px;
+    
+        /* #1 */
+        border: 5px solid #4285F4;
+    
+        /* #2 */
+        padding: 5px;
+        background: #34A853;
+    
+        /* #3 */
+        outline: 5px solid #FBBC05;
+    
+        /* #4 AND INFINITY!!! (CSS3 only) */
+        box-shadow:
+            0 0 0 10px #EA4335,
+            0 0 0 15px #4285F4;
 }
 
 p.resume a {
@@ -248,10 +263,7 @@ p.clink a:hover {
     font-size: larger;
     font-weight: 900;
 }
-.square-img{
-    width: 50px;
-    
-}
+
 .sl {
     font-family: poppins;
     font-weight: bold;
@@ -375,7 +387,7 @@ body {
 
 #prevPhoto:hover {
     opacity: 80%;
-    ;
+    
 }
 
 #nextPhoto {
