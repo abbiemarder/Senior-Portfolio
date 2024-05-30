@@ -227,7 +227,7 @@
         /* #3 */
         outline: 5px solid #FBBC05;
     
-        /* #4 AND INFINITY!!! (CSS3 only) */
+        /* #4 AND INFINITY!!! */
         box-shadow:
             0 0 0 10px #EA4335,
             0 0 0 15px #4285F4;
@@ -301,17 +301,16 @@ body {
     text-align: center;
     color:black;
     font-family: "Poppins", sans-serif;
+    text-decoration: none ;
 }
 
 .footer ul li {
     display: inline-block;
     margin: 0 10px;
-    bottom: 10px;
 }
 
 .footer .credit {
     text-align: center;
-    bottom: 10px;
     right: 10px;
     font-family: "Poppins", sans-serif;
 }
@@ -368,7 +367,7 @@ body {
 
 .thumbnail {
     position: relative;
-    box-shadow: 1px 3px 20px 0px;
+    box-shadow: #1a73e8 1px 3px 20px 0px;
 }
 
 
@@ -408,13 +407,27 @@ body {
 }
 
 .details {
-    border: 2px #EA4335 dashed;
+    /* #1 */
+        border: 5px solid #34A853;
+    
+        /* #2 */
+        padding: 5px;
+        background: #34A853;
+    
+        /* #3 */
+        outline: 5px solid #FBBC05;
+    
+        /* #4 AND INFINITY!!! (CSS3 only) */
+        box-shadow:
+            0 0 0 10px #EA4335,
+            0 0 0 15px #4285F4;
     padding: 0px 10px;
     margin: 10px 0px;
     font-weight: bold;
-    color: #4285F4;
+    margin-top: 5%;
+    color: black;
     font-family: poppins;
-    background-color: #FBBC05;
+    background-color: white;
 }
 
 /*Add CSS styles to rotate the element 90deg
@@ -461,7 +474,7 @@ Make it animate nicely. You'll need CSS3 for this*/
     text-align: center;
     font-size: 70px;
     font-family: "Poppins", sans-serif;
-    padding-top: 70px;
+    padding-top: 90px;
     font-weight:bold;
 }
 .banner1 {

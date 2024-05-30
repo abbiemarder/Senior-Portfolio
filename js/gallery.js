@@ -47,9 +47,9 @@ function swapPhoto() {
 }
 
 function displayPhoto() {
-  $(".location").text("Location: " + mImages[mCurrentIndex].location);
+  $(".location").text("Title: " + mImages[mCurrentIndex].location);
   $(".description").text("Description: " + mImages[mCurrentIndex].description);
-  $(".date").text("Date: " + mImages[mCurrentIndex].date);
+  $(".date").text("Date of creation: " + mImages[mCurrentIndex].date);
   $("#photo").attr("src", mImages[mCurrentIndex].img);
 }
 // Counter for the mImages array
